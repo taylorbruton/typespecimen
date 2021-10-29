@@ -19,3 +19,30 @@
   src: url(https://fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
+
+.main {
+font-family: 'Dunkin Bold';
+font-size: 65px;
+color: #f56200;
+}
+
+.sub {
+font-family: 'Montserrat';
+font-size: 24px;
+color: #333;
+
+}
+
+.navi {
+font-family: 'Dunkin Bold',"Montserrat",sans-serif;
+font-size: 14px;
+color: #333;
+}
+
+.foot {
+font-family: 'Dunkin Regular','Montserrat',sans-serif;
+font-size: 14pt;
+color: #333;
+}
+
+
