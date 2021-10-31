@@ -24,7 +24,7 @@
 font-family: 'Dunkin Bold';
 font-size: 65px;
 color: #f56200;
-text-transform: uppercase;
+text-transform: capitalize;
 }
 
 .subtext {
