@@ -28,6 +28,10 @@
 	font-style: normal;
 }
 
+.body {
+  text-align: center;
+}
+
 .tagline {
     font-family: DunkinSansDisplay, 'Dunkin Bold';
     font-size: 65px;
