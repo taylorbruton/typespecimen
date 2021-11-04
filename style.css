@@ -28,16 +28,13 @@
 	font-style: normal;
 }
 
-.body {
-  text-align: center;
-}
-
 .tagline {
     font-family: DunkinSansDisplay, 'Dunkin Bold';
     font-size: 65px;
     font-style: normal;
     font-weight: 400;
-    color: #db0a81;    
+    color: #db0a81; 
+text-align: center;
 }
 
 .subtagline{ 
@@ -46,6 +43,7 @@
     font-style: normal;
     font-weight: 0;
     color: #333;
+text-align: center;
 }
 
 .nav{ 
@@ -54,6 +52,7 @@
     font-size: 14px; 
     color: #333;
     font-weight: bold;
+	text-align: center;
 }
 
 .h2{ 
@@ -62,6 +61,7 @@
     color: #333;
     font-size: 20px;
     line-height: 1;
+	text-align: center;
    }
 
 .p{ 
@@ -72,4 +72,5 @@
     margin-top: 0.25rem;
     line-height: 1.3;
     color: #333;
+	text-align: center;
 }
