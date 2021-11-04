@@ -37,7 +37,7 @@
 }
 
 .subtagline{ 
-    font-family: DunkinSansBook, Montserrat;
+    font-family: DunkinSansBook, 'Montserrat';
     font-size: 24px;
     font-style: normal;
     font-weight: 0;
@@ -45,7 +45,7 @@
 }
 
 .nav{ 
-    font-family: 'Dunkin Regular', DunkinSansBook,"Montserrat",sans-serif;
+    font-family: 'Dunkin Regular', DunkinSansBook,'Montserrat',sans-serif;
     font-style: normal;
     font-size: 14px; 
     color: #333;
@@ -53,7 +53,7 @@
 }
 
 .h2{ 
-    font-family: DunkinSerifBold, "Montserrat";
+    font-family: DunkinSerifBold, 'Montserrat';
     font-weight: bold;
     color: #333;
     font-size: 20px;
@@ -61,7 +61,7 @@
    }
 
 p{ 
-   font-family: DunkinSansBook,"Montserrat",sans-serif;
+   font-family: DunkinSansBook,'Montserrat',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 1.15rem;
