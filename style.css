@@ -12,7 +12,17 @@
     src: local('Dunkin Bold'), url('Dunkin Bold.woff') format('woff');
     }
 
+@font-face {
+        /* Montserrat Semi-bold = 600 */
+        font-weight: 600;
+        font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    }
 
+ @font-face {
+        /* Montserrat Regular = 400 */
+        font-weight: 400;
+        font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    }
 
 
 
